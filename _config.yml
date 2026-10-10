@@ -192,6 +192,8 @@ exclude:
   - README
   - tmp
   - vendor
+  - AGENTS.md
+  - markdown_generator
 keep_files:
   - .git
   - .svn
