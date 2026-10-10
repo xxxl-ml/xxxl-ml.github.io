@@ -7,7 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Xuan, a fourth-year PhD candidate at <a href="https://www.acem.sjtu.edu.cn/en/" target="_blank" rel="noopener noreferrer">Antai College of Economics and Management</a>, <a href="https://en.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University</a> (SJTU). I enjoy using optimization and statistical learning to address business operations problems, such as inventory management and product pricing. I'm fortunate to be advised by Prof. <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html#container?3" target="_blank" rel="noopener noreferrer">Ying Rong</a>. I'm also currently working as an algorithm intern at <a href="https://www.bytedance.com/en/" target="_blank" rel="noopener noreferrer">ByteDance</a>.
+Hi! I'm Xuan, a fourth-year PhD candidate of Management Science at <a href="https://www.acem.sjtu.edu.cn/en/" target="_blank" rel="noopener noreferrer">Antai College of Economics and Management</a>, <a href="https://en.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University</a> (SJTU). I enjoy using optimization and statistical learning to address business operations problems, such as inventory management and product pricing. I'm fortunate to be advised by Prof. <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html#container?3" target="_blank" rel="noopener noreferrer">Ying Rong</a>. I'm also currently working as an algorithm intern at <a href="https://www.bytedance.com/en/" target="_blank" rel="noopener noreferrer">ByteDance</a>.
+
+# Education
+
+- **Shanghai Jiao Tong University**, 2023–present<br>
+  Ph.D. candidate, Management Science, Antai College of Economics and Management.<br>
+
+- **Zhejiang University**, 2019–2023<br>
+  B.S., Information Management and Information Systems, School of Management.
 
 # Papers
 
@@ -19,3 +27,21 @@ Hi! I'm Xuan, a fourth-year PhD candidate at <a href="https://www.acem.sjtu.edu.
 
 3. <a href="https://www.sciencedirect.com/science/article/pii/S0305048326001611" target="_blank" rel="noopener noreferrer">Simulation Optimization Approach for Managing Appointments of a Multi-Stage Multi-Server System</a><br>
    Can Zhao, Miao Bai, Zhang Zheng, **Xuan Liao**. *Omega*, 2026.<br>
+
+# Teaching Experience
+
+- **MGTS8004: Supply Chain Design and Management**, 2025/2026 Spring<br>
+  Teaching Assistant, Shanghai Jiao Tong University.<br>
+  Graduate Level, Instructor: Prof. Ying Rong.
+
+- **AI and Business Data Analytics**, 2025 Fall<br>
+  Teaching Assistant, Shanghai Jiao Tong University.<br>
+  Undergraduate Level, Instructor: Prof. Huan Xu.
+
+- **SHBI-GB.7302.B1：Optimization Modeling**, 2024 Winter<br>
+  Teaching Assistant, New York University Shanghai.<br>
+  Graduate Level, Instructor: Prof. Jiawei Zhang.
+
+  - **BUSS3527: Simulations in Management**, 2024 Fall<br>
+  Teaching Assistant, Shanghai Jiao Tong University.<br>
+  Undergraduate Level, Instructor: Prof. Puping Jiang.
