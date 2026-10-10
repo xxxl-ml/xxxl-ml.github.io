@@ -42,6 +42,6 @@ Hi! I'm Xuan, a fourth-year PhD candidate of Management Science at <a href="http
   Teaching Assistant, New York University Shanghai.<br>
   Graduate Level, Instructor: Prof. Jiawei Zhang.
 
-  - **BUSS3527: Simulations in Management**, 2024 Fall<br>
+- **BUSS3527: Simulations in Management**, 2024 Fall<br>
   Teaching Assistant, Shanghai Jiao Tong University.<br>
   Undergraduate Level, Instructor: Prof. Puping Jiang.
