@@ -2,12 +2,20 @@
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Hi! This is Xuan. I'm now a fourth-year PhD candidate at [Antai College of Economics and Management](https://www.acem.sjtu.edu.cn/en/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) (SJTU). I enjoy doing research that using optimization and statistical learning to address business operations problems such as inventory management and product pricing. I'm fortunate to be advised by Prof. [Ying Rong](https://www.acem.sjtu.edu.cn/en/faculty/rongying.html#container?3). Recently, I also serve as an algorithm intern at [Bytedance](https://www.bytedance.com/en/).
+Hi! I'm Xuan, a fourth-year PhD candidate at <a href="https://www.acem.sjtu.edu.cn/en/" target="_blank" rel="noopener noreferrer">Antai College of Economics and Management</a>, <a href="https://en.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University</a> (SJTU). I enjoy using optimization and statistical learning to address business operations problems, such as inventory management and product pricing. I'm fortunate to be advised by Prof. <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html#container?3" target="_blank" rel="noopener noreferrer">Ying Rong</a>. I'm also currently working as an algorithm intern at <a href="https://www.bytedance.com/en/" target="_blank" rel="noopener noreferrer">ByteDance</a>.
 
-### Papers
+# Papers
 
+1. <a href="https://arxiv.org/abs/2601.15589" target="_blank" rel="noopener noreferrer">[Deep Learning for Perishable Inventory Systems with Human Knowledge]</a><br>
+   **Xuan Liao**, Zhenkang Peng, Ying Rong. *Under revision*, 2026.<br>
+
+2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7583259" target="_blank" rel="noopener noreferrer">[Data-Driven Pricing under Endogeneity: From GMM Estimation to Price Optimization]</a><br>
+   **Xuan Liao**, Ying Rong, Xun Zhang, Huan Zheng. *Under review*, 2026.<br>
+
+3. <a href="https://www.sciencedirect.com/science/article/pii/S0305048326001611" target="_blank" rel="noopener noreferrer">[Simulation Optimization Approach for Managing Appointments of a Multi-Stage Multi-Server System]</a><br>
+   Can Zhao, Miao Bai, Zhang Zheng, **Xuan Liao**. *Omega*, 2026.<br>
