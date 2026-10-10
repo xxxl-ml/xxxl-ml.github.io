@@ -11,11 +11,11 @@ Hi! I'm Xuan, a fourth-year PhD candidate at <a href="https://www.acem.sjtu.edu.
 
 # Papers
 
-1. <a href="https://arxiv.org/abs/2601.15589" target="_blank" rel="noopener noreferrer">[Deep Learning for Perishable Inventory Systems with Human Knowledge]</a><br>
+1. <a href="https://arxiv.org/abs/2601.15589" target="_blank" rel="noopener noreferrer">Deep Learning for Perishable Inventory Systems with Human Knowledge</a><br>
    **Xuan Liao**, Zhenkang Peng, Ying Rong. *Under revision*, 2026.<br>
 
-2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7583259" target="_blank" rel="noopener noreferrer">[Data-Driven Pricing under Endogeneity: From GMM Estimation to Price Optimization]</a><br>
+2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7583259" target="_blank" rel="noopener noreferrer">Data-Driven Pricing under Endogeneity: From GMM Estimation to Price Optimization</a><br>
    **Xuan Liao**, Ying Rong, Xun Zhang, Huan Zheng. *Under review*, 2026.<br>
 
-3. <a href="https://www.sciencedirect.com/science/article/pii/S0305048326001611" target="_blank" rel="noopener noreferrer">[Simulation Optimization Approach for Managing Appointments of a Multi-Stage Multi-Server System]</a><br>
+3. <a href="https://www.sciencedirect.com/science/article/pii/S0305048326001611" target="_blank" rel="noopener noreferrer">Simulation Optimization Approach for Managing Appointments of a Multi-Stage Multi-Server System</a><br>
    Can Zhao, Miao Bai, Zhang Zheng, **Xuan Liao**. *Omega*, 2026.<br>
