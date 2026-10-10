@@ -28,7 +28,7 @@ I enjoy using optimization and statistical learning approaches to address busine
    **Xuan Liao**, Ying Rong, Xun Zhang, Huan Zheng. *Under review*, 2026.<br>
 
 3. <a href="https://www.sciencedirect.com/science/article/pii/S0305048326001611" target="_blank" rel="noopener noreferrer">Simulation Optimization Approach for Managing Appointments of a Multi-Stage Multi-Server System</a><br>
-   Can Zhao, Miao Bai, Zhang Zheng, **Xuan Liao**. *Omega*, 2026.<br>
+   Can Zhao, Miao Bai, Zheng Zhang, **Xuan Liao**. *Omega*, 2026.<br>
 
 # Teaching Experience
 
