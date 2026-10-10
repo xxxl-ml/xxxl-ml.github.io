@@ -34,7 +34,7 @@ Hi! I'm Xuan, a fourth-year PhD candidate of Management Science at <a href="http
   Teaching Assistant, Shanghai Jiao Tong University.<br>
   Graduate Level, Instructor: Prof. Ying Rong.
 
-- **AI and Business Data Analytics**, 2025 Fall<br>
+- **BUSS2611：AI and Business Data Analytics**, 2025 Fall<br>
   Teaching Assistant, Shanghai Jiao Tong University.<br>
   Undergraduate Level, Instructor: Prof. Huan Xu.
 
