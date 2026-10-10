@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Xuan Liao"
 title_separator          : "-"
 name                     : &name "Xuan Liao"
@@ -26,7 +26,7 @@ author:
   avatar           : "lx.jpg"
   name             : "Xuan Liao"
   pronouns         : # example: "she/her"  
-  bio              : "Fourth-year PhD candidate"
+  bio              : "Fourth-year Ph.D. candidate"
   location         : "Shanghai, China"
   employer         : "Shanghai Jiao Tong University"
   uri              : # URL
