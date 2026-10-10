@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Xuan Liao"
 title_separator          : "-"
 name                     : &name "Xuan Liao"
@@ -23,7 +23,7 @@ repository               : "xxxl-ml/xxxl-ml.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "lx.jpg"
   name             : "Xuan Liao"
   pronouns         : # example: "she/her"  
   bio              : "Fourth-year PhD candidate"
