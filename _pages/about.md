@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Xuan, a fourth-year PhD candidate of Management Science at <a href="https://www.acem.sjtu.edu.cn/en/" target="_blank" rel="noopener noreferrer">Antai College of Economics and Management</a>, <a href="https://en.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University</a> (SJTU). I enjoy using optimization and statistical learning to address business operations problems, such as inventory management and product pricing. I'm fortunate to be advised by Prof. <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html#container?3" target="_blank" rel="noopener noreferrer">Ying Rong</a>. I'm also currently working as an algorithm intern at <a href="https://www.bytedance.com/en/" target="_blank" rel="noopener noreferrer">ByteDance</a>.
+Hi! I'm Xuan, a fourth-year PhD candidate of Management Science at <a href="https://www.acem.sjtu.edu.cn/en/" target="_blank" rel="noopener noreferrer">Antai College of Economics and Management</a>, <a href="https://en.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University</a> (SJTU). I'm fortunate to be advised by Prof. <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html#container?3" target="_blank" rel="noopener noreferrer">Ying Rong</a>. In 2023, I received my Bachelor's degree in Information Management and Information Systems from Zhejiang University, supervised by Prof. <a href="https://person.zju.edu.cn/en/zhengzhang" target="_blank" rel="noopener noreferrer">Zheng Zhang</a>. 
+
+I enjoy using optimization and statistical learning approaches to address business operations problems, such as inventory management and product pricing. I'm also currently working as an algorithm intern at <a href="https://www.bytedance.com/en/" target="_blank" rel="noopener noreferrer">ByteDance</a>.
 
 # Education
 
