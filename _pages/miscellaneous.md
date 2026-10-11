@@ -5,10 +5,6 @@ permalink: /miscellaneous/
 author_profile: true
 ---
 
-A few things beyond research.
-
-## Interests
-
 I regularly go to the gym and also enjoy playing badminton, swimming, and spending time outdoors.
 
 I enjoy pop music. Some of my favorite artists include Ed Sheeran, Laufey, and Eason Chan.
