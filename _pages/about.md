@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+seo_title: "Xuan Liao's Homepage"
 author_profile: true
 redirect_from:
   - /about/
