@@ -13,7 +13,7 @@ My top three films are *La La Land*, *Interstellar*, and *1917*.
 
 My top three TV series are *Better Call Saul*, *Arcane*, and *Game of Thrones*.
 
-I have always been passionate about different kinds of video games. To me, they are not just games, but more like works of art. Here are the games that I have completed:
+In old days, I was passionate about different kinds of video games. To me, they are not just games, but more like works of art. Here are the games that I have completed:
 
 - *Elden Ring* and its DLC *Shadow of the Erdtree* (From Software)
 - *Dark Souls* (From Software)
