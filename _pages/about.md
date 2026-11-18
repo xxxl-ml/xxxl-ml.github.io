@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Xuan, a fourth-year PhD student in Management Science at <a href="https://www.acem.sjtu.edu.cn/en/" target="_blank" rel="noopener noreferrer">Antai College of Economics and Management</a>, <a href="https://en.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University</a> (SJTU). I'm fortunate to be advised by Prof. <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html#container?3" target="_blank" rel="noopener noreferrer">Ying Rong</a>. In 2023, I received my bachelor's degree in Information Management and Information Systems from <a href="https://www.zju.edu.cn/english/" target="_blank" rel="noopener noreferrer">Zhejiang University</a>, where I had the privilege of working with Prof. <a href="https://person.zju.edu.cn/en/zhengzhang" target="_blank" rel="noopener noreferrer">Zheng Zhang</a>. 
+Hi! I'm now a fourth-year PhD student in Management Science at <a href="https://www.acem.sjtu.edu.cn/en/" target="_blank" rel="noopener noreferrer">Antai College of Economics and Management</a>, <a href="https://en.sjtu.edu.cn/" target="_blank" rel="noopener noreferrer">Shanghai Jiao Tong University</a> (SJTU). I'm fortunate to be advised by Prof. <a href="https://www.acem.sjtu.edu.cn/en/faculty/rongying.html#container?3" target="_blank" rel="noopener noreferrer">Ying Rong</a>. In 2023, I received my bachelor's degree in Information Management and Information Systems from <a href="https://www.zju.edu.cn/english/" target="_blank" rel="noopener noreferrer">Zhejiang University</a>, where I had the privilege of working with Prof. <a href="https://person.zju.edu.cn/en/zhengzhang" target="_blank" rel="noopener noreferrer">Zheng Zhang</a>. 
 
-I enjoy using data-driven optimization and statistical learning approaches to address business operations problems, such as inventory management and product pricing. I'm also currently working as an algorithm intern at <a href="https://www.bytedance.com/en/" target="_blank" rel="noopener noreferrer">ByteDance</a>.
+I enjoy using data-driven optimization and statistical learning approaches to address business operations problems, such as inventory management and product pricing.
 
 # Education
 
@@ -48,3 +48,8 @@ I enjoy using data-driven optimization and statistical learning approaches to ad
 - **BUSS3527: Simulations in Management**, 2024 Fall<br>
   Teaching Assistant, Shanghai Jiao Tong University.<br>
   Undergraduate Level, Instructor: Prof. Puping Jiang.
+
+# Industry Experience
+
+- **Algorithm Intern** @ <a href="https://www.bytedance.com/en/" target="_blank" rel="noopener noreferrer">ByteDance</a>, 2026.7 - 2026.11<br>
+  Developed several product pricing and subsidy allocation algorithms for Tiktok Shop.<br>
