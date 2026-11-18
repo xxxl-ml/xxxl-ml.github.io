@@ -74,4 +74,4 @@ In old days, I was passionate about different kinds of video games. To me, they 
 - *Titanfall 2* (Respawn Entertainment)
 - *Battlefield 1* (EA DICE)
 
-These days, I mainly play *League of Legends: Wild Rift*, usually in the top lane as K'Sante and other Juggernauts.
+These days, I mainly play *ARAM: Mayhem (海克斯大乱斗)* in *League of Legends*, where I particularly enjoy using Viktor, Sion, and Yone.
